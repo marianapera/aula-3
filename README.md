@@ -1,2 +1,2 @@
 # aula-3
- introdução ao github desktop.
+Introdução ao Github Desktop & sincronização do VS Code com o Github.
